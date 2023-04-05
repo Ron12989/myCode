@@ -1,0 +1,4 @@
+Training Log
+4/3/23 install virtualbox with Ubuntu, add guest extensions, download studio code
+4/4/23 using Ubuntu and studio code, follow Academind Visual Studio Code tutorial for beginners
+4/5/23 continu watching tutorial
