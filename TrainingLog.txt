@@ -2,4 +2,60 @@ Training Log
 4/3/23 install virtualbox with Ubuntu, add guest extensions, download studio code
 	video on git and github
 4/4/23 using Ubuntu and studio code, follow Academind Visual Studio Code tutorial for beginners
-4/5/23 continu watching tutorial
+4/5/23 continu watching tutorial on vs code
+		Configure 'open in browser' for html editor for vs code
+		configure for shared file in windows AppDev/Tutorials/UbuntuCpp
+		Start with CPP tutorials "C++ Tutorial for Beginners- full course from freeCodeCamp.org
+4/8/23  Continue python3 tutorial part 2		
+		data types
+		python shell
+		Continue python3 tutorial part 3
+		more about strings
+		Continue python3 tutorial part 4  Variables
+		Continue python3 tutorial part 5 Lists and Dictionaries
+			list = ['item1','item2' ... ]  
+			list.pop(ix)   removes an item from a list
+			list.append(item)  appends an item to a list
+			for a dictionary: name = { name:value, name1,value1 ... }
+			to delete a dictionary item, del dictionaryname[itemname]
+		Continue python3 tutorial part 6 converting data types
+			convert string to int  int("123")
+			convert int to string  str(123)
+			convert float string   float("string")
+		Continue python3 tutorial part 7 additional string methods
+			indexing a range within a string:  msg = "this is a string"
+											   msg[0:2] selects a range starting with 0 and ending with 2
+											   second argument must be larger
+											   msg.upper() sets upper case
+											   msg.lower() lower case
+		Continue python3 tutorial part 8 	the help function	
+		Continue python3 tutorial part 9	writing scripts
+			first line of python script.py is: #!/usr/bin/env python3
+					this is called the Shebang which tells the bash interperter what to use to interpret the rest of the
+							text in the file
+							without this: you can still use "python3 scriptname.py"
+			after creating a python script in ubuntu before you can execute it:
+				type: chmod +x scriptname.py
+				then: ./scriptname.py
+		Continue python3 tutorial part 10	comments and style  
+			# this is a comment
+			""" this is a doc string which can be multiple lines """
+			note: using  nano for editor  ^t^z exits the editor.  then use the terminal as per normal
+			followed by fg<enter> to resume the nano text editor
+		Continue python3 tutorial part 11	Functions
+			functions are define with the def key word as in def functionname(): #  example with no input parameters
+		Continue python3 tutorial part 12  local variables and global variables
+			use the keyword global varname in a function or outside a function
+		Continue python3 tutorial part 13   user input	
+		Continue python3 tutorial part 14   if statemeent  if num < 10:  else:  elif expression:
+			note:  nano can be configured with .nanorc in the home directory and setting 4 spaces per tab and tabs are spaces
+4/9/23
+		Continue python3 tutorial part 15	While loops  while my_num < 10: 
+		part 16	for loops	for f in foods:  where foods is a list
+		part 17 tuples
+		part 18 the OS module
+		part 19 more fun with the os module
+		part 20 sub processes
+		part 21 handling exceptions
+		part 22 working with files
+		

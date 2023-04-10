@@ -1,1 +1,4 @@
-this is text
+﻿this is text
+more text here
+windows text here
+more from ubuntu
